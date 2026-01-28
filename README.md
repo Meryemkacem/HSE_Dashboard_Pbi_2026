@@ -49,6 +49,7 @@ All major KPIs include **YoY % variation**.
 
 ### 1️⃣ Incidents – Executive Overview
 
+![HSE Dashboard – Incidents Overview](dashboard_hse_p1_2024.png)
 
 * KPI cards with YoY indicators
 * Incidents by Site
@@ -59,12 +60,16 @@ All major KPIs include **YoY % variation**.
 
 ### 2️⃣ TRI Details
 
+![HSE Dashboard – Incidents Overview](dashboard_hse_p2_2024.png)
+
 * TRIR Rolling 12 Months
 * TRIR Year-To-Date
 * Benchmark comparison
 * Breakdown by site, activity, and company
 
 ### 3️⃣ LTI Details
+
+![HSE Dashboard – Incidents Overview](dashboard_hse_p3_2024.png)
 
 * LTIFR Rolling 12 Months
 * LTIFR Year-To-Date
