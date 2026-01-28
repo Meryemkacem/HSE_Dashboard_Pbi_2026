@@ -96,6 +96,7 @@ All visuals respond interactively to slicer selections.
 
 ## 🗂 Data Model
 
+![HSE Dashboard – Model_View](Model_View.png)
 ### 🔹 Architecture
 
 * **Star Schema**
