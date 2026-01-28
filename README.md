@@ -49,9 +49,10 @@ All major KPIs include **YoY % variation**.
 
 ### 1️⃣ Incidents – Executive Overview
 
+
 * KPI cards with YoY indicators
 * Incidents by Site
-* Recordable Incidents (TRI) by Type
+* Recordable Incidents (TRI) by category
 * Incidents by Type
 * Monthly incidents with cumulative trend
 * Days Since Last LTI
@@ -107,11 +108,6 @@ All visuals respond interactively to slicer selections.
 * Total worked hours
 * Used as exposure denominator
 
-**fact_environmental_reading**
-
-* Emissions & environmental indicators
-* Regulatory thresholds
-
 ### 🔹 Dimension Tables
 
 * dim_date
@@ -126,7 +122,7 @@ All visuals respond interactively to slicer selections.
 
 ---
 
-## 🧮 Key DAX Measures (Examples)
+## 🧮 Key DAX Measures (Samples)
 
 ```DAX
 Total Incidents = COUNT(fact_incident[Incident_ID])
@@ -160,7 +156,7 @@ Additional measures include:
 
 ## 📐 Benchmarks & Standards
 
-* Industry benchmarks (e.g. IOGP / OSHA)
+* Industry benchmarks (e.g. IOGP)
 * Internal corporate targets
 * Performance comparison integrated into TRI & LTI pages
 
@@ -190,15 +186,13 @@ Additional measures include:
 * Predictive safety analytics
 * Near-miss & safety observations module
 * Automated data refresh
-* ESG reporting integration
-* Drill-through incident investigation pages
 
 ---
 
 ## 👤 Author
 
 **Meryem KACEM**
-HSE & Data Analytics Professional
+Business Data Analytics Professional
 Power BI • DAX • Data Modeling • Safety Analytics
 
 🔗 *This project is part of a professional analytics portfolio.*
