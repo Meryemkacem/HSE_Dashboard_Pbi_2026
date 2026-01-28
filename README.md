@@ -204,6 +204,8 @@ Business Data Analytics Professional
 Power BI • DAX • Data Modeling • Safety Analytics
 
 🔗 *This project is part of a professional analytics portfolio.*
+- [Link to Confluence Page](https://kacemmeryem02-1767775811681.atlassian.net/wiki/x/AYBj))
+
 
 ---
 
