@@ -15,7 +15,9 @@ It is suitable for:
 * Corporate HSE reporting
 * Executive & management reviews
 * Contractor safety monitoring
-* ESG & sustainability analytics
+
+🔗 *This project data were simulated using Claude AI (randomly)*
+
 
 ---
 
